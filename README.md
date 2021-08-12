@@ -31,13 +31,17 @@ En esta parte se puede observar la cuenta total de todos los productos añadidos
 ### Finalizacion
 # <img src="https://github.com/pquispemor/DBP-ProyectoFinal/blob/main/Print/FinalizacionCompra.jpeg?raw=true" width="500">
 
-###Dependencias
+### Tecnologias
     
-    implementation 'com.google.android.material:material:1.4.0-rc01'
+    Android Studio
     
-    implementation 'com.github.bumptech.glide:glide:4.8.0'
+    Base de Datos (SQLITE)
     
-    implementation 'com.google.code.gson:gson:2.8.7'
+    Dependencias Extras:
+    
+        implementation 'com.github.bumptech.glide:glide:4.8.0'
+    
+        implementation 'com.google.code.gson:gson:2.8.7'
     
  ### Enlace Youtube
 
