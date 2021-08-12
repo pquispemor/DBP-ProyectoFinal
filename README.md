@@ -35,7 +35,7 @@ En esta parte se puede observar la cuenta total de todos los productos añadidos
     
     Android Studio
     
-    Base de Datos (SQLITE)
+    Base de Datos (TinyDB)
     
     Dependencias Extras:
     
